@@ -1,0 +1,1 @@
+module.exports = require("@scamkids/config/eslint-preset");
